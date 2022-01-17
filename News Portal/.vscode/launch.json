@@ -6,11 +6,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch App",
+            "name": "Launch Test",
             "request": "launch",
-            "vmArgs": "--module-path \"C:\\Program Files\\Java\\javafx-sdk-17.0.1\\lib\" --add-modules javafx.controls,javafx.fxml",
-            "mainClass": "App",
-            "projectName": "News Portal_b5e8adb6"
+            "mainClass": "Test",
+            "projectName": "News Portal_ef82ee1a"
         },
         {
             "type": "java",

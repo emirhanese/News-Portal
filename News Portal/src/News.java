@@ -67,4 +67,9 @@ abstract class News{ // main purpose of making abstract class is because we do n
             System.out.println(i + 1 + " " + this.images.get(i));
         }
     }
+
+    // Method to be overloaded and overrided.
+    protected void printCategory() {
+
+    }
 }
